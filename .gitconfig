@@ -1,0 +1,13 @@
+[user]
+    name = Ertan Gorgu
+    email = ertan_gorgu@hotmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
